@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- camera viewfinder corners -->
+    <path
+        android:pathData="M30,44 L30,32 L42,32 M66,32 L78,32 L78,44 M78,64 L78,76 L66,76 M42,76 L30,76 L30,64"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- pen stroke -->
+    <path
+        android:pathData="M46,62 L68,40"
+        android:strokeColor="#00E676"
+        android:strokeWidth="7"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,68 L44,58 L50,64 Z" />
+</vector>
